@@ -1,7 +1,7 @@
 {
   "name": "@abuhasanrumi/state-sync",
   "version": "1.0.0",
-  "description": "A tiny (~400B) library to sync state across browser tabs/windows",
+  "description": "A tiny library (1kb) to sync state across browser tabs/windows",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "type": "module",
